@@ -1,0 +1,13 @@
+#myCanvas {
+  /*border: 1px solid black;
+  background-color: lightGrey;
+  */
+}
+
+body{
+  background-color: black;
+  text-align: center;
+  background-image:url("backgroundGame.jpg");
+  background-repeat:no-repeat;
+  background-position: center center;
+}
